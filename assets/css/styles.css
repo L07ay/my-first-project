@@ -1,0 +1,9 @@
+/* body{
+    background-color: lightgrey;
+    background-image: url('../images/Forest.jpg');
+} */
+
+body{
+    background-color: lightgrey;
+    background-image: url('/assets/images/Forest.jpg');
+}
